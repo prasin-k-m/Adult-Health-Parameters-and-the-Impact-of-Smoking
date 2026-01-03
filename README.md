@@ -109,6 +109,7 @@ A detailed PowerPoint presentation summarizing the analysis, visual insights, an
 1. Clone the repository:
 
 git clone https://github.com/prasin-k-m/Adult-Health-Parameters-and-the-Impact-of-Smoking.git
+
 cd Adult-Health-Parameters-and-the-Impact-of-Smoking
 
 
